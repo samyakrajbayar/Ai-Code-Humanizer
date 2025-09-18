@@ -2,9 +2,6 @@
 """
 Code Humanizer AI 
 
-This script is basically a chatbot that takes in code (Python, JS, C++, etc.)
-and spits out explanations, adds friendly comments, and tries to make sense
-of it all in plain English. 
 """
 
 import re
